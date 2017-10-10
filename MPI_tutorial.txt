@@ -4,3 +4,5 @@ http://tel-zur.net/PRACE2014
 
 download our exercises using wget:
 wget http://tel-zur.net/PRACE2014/exe/prace2014mpi.tar.gz
+
+added to newbranch1
